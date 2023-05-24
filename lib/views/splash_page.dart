@@ -38,7 +38,7 @@ class _SplashPageState extends State<SplashPage> {
                 Image.asset(imagem),
                 SizedBox(height: 24),
                 Text(
-                  'ONG Meu Bichinho',
+                  'Seja Bem-Vindo a ONG Meu Bichinho!',
                   style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                 ),
               ],
